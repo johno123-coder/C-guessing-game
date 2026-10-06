@@ -22,8 +22,8 @@ A simple console game where you try to guess the secret number before you run ou
 You need the [.NET SDK](https://dotnet.microsoft.com/download) installed.
 
 ```bash
-git clone https://github.com/johno123-coder/csharp-number-guessing-game.git
-cd csharp-number-guessing-game
+git clone https://github.com/johno123-coder/C-guessing-game.git
+cd C-guessing-game
 dotnet run
 ```
 
